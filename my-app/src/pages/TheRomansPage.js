@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+//imported hooks 
 import './TheRomansPage.css';
 
 // TheRomansPage component represents a page about the Romans with a video and a message input field.
@@ -13,6 +14,7 @@ function TheRomansPage() {
   // Logs the message to the console and navigates to the '/chatbot' route and inputs message into chatbot field
   const handleSendMessage = () => {
     console.log('Sending message:', message);
+    //when chatbot page is opened, message has been navigated to the input bar already
     navigate(`/chatbot?message=${encodeURIComponent(message)}`);
   };
 

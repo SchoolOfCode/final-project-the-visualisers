@@ -121,3 +121,75 @@ padding: 0.8em 0.8em 0.8em 0.8em;
   font-size: 32px;
 
 }
+
+@media (max-width: 1200px) {
+  .inputButton {
+    width: 60%;
+    font-size: 1rem;
+  }
+  .submitButton {
+    padding: 0.8rem 1.5rem;
+    font-size: 16px;
+  }
+  .planetImage {
+    left: -100px;
+    bottom: -50px;
+  }
+  .RomansTitle {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 1024px) {
+  .inputButton {
+    width: 55%;
+    font-size: 0.9rem;
+  }
+  .submitButton {
+    padding: 0.7rem 1.2rem;
+    font-size: 15px;
+  }
+  .planetImage {
+    left: -80px;
+    bottom: -40px;
+  }
+  .RomansTitle {
+    font-size: 1.8rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .inputButton {
+    width: 50%;
+    font-size: 0.8rem;
+  }
+  .submitButton {
+    padding: 0.6rem 1rem;
+    font-size: 14px;
+  }
+  .planetImage {
+    left: -60px;
+    bottom: -30px;
+  }
+  .RomansTitle {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .inputButton {
+    width: 45%;
+    font-size: 0.7rem;
+  }
+  .submitButton {
+    padding: 0.5rem 0.8rem;
+    font-size: 13px;
+  }
+  .planetImage {
+    left: -40px;
+    bottom: -20px;
+  }
+  .RomansTitle {
+    font-size: 1.2rem;
+  }
+}
