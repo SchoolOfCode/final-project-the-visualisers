@@ -14,6 +14,8 @@
 | **Dionne** | Project Manager, Full Stack | UI/UX Design, Full Stack Development   |
 | **Aaron**  | Front-end Engineer        | UI/UX, User-Centred Design            |
 | **Luisde** | Front-end Engineer, AI, PM | CSS, HTML, API Integration, AI        |
+| **Emilija** | Full Stack Developer, AI | CSS, HTML, Javascript, React, AI |
+
 
 ---
 
@@ -54,6 +56,7 @@ We use **Dot Voting** to ensure that each voice is heard and decisions are made 
 | **Lana**   | Thursday afternoons      |
 | **Aaron**  | Most of the week afternoon   |
 | **Luisde**  | Most of the week afternoon   |
+| **Emilija**  | Most of the week afternoon   |
 | **Everyone** | Daily Stand-ups (morning) |
 
 ---
@@ -66,6 +69,7 @@ We use **Dot Voting** to ensure that each voice is heard and decisions are made 
 | **Dionne**| Deliver a strong project, solidify skills.|
 | **Aaron** | Foster a collaborative team environment. |
 | **Luisde**| Master API calls and perfect front-end.   |
+| **Emilija**| Perfect back-end, practice AI integration.   |
 
 ---
 
@@ -89,6 +93,7 @@ Even with disagreements, we **Disagree and Commit**! Here's how we manage confli
 | **Lana**   | Front-end Engineer, UI/UX, User-Centred Design |
 | **Aaron**  | Front-end Engineer, UI/UX, User-Centred Design |
 | **Luisde** | Project Manager, AI Integration, Front-end Engineer |
+| **Emilija** | AI Integration, UI/UX Design, Full Stack Developer |
 
 ---
 
